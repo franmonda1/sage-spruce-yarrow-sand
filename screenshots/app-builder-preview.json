@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Cifras",
+      "hasCanvas": false,
+      "bodyTextLen": 227,
+      "bodyTextHash": "b76ac562a6754febda8a1c37f19490ca8b460024fb558d12a5d5ee350aa23426",
+      "bodyTextPrefix": "Cifras Compara y ordena números Comparar Ordenar CIFRAS MÁXIMAS ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Cifras",
+      "hasCanvas": false,
+      "bodyTextLen": 183,
+      "bodyTextHash": "e65d38d1d67b09b3f18bcbc83d297d3260cc9e7c1a7bfdfa23b54e733366e0cf",
+      "bodyTextPrefix": "Cifras CIFRAS MÁXIMAS 1 2 3 4 5 6 7 8 9 Elige el símbolo que fal",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
